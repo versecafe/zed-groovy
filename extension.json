@@ -1,0 +1,13 @@
+{
+  "name": "Groovy",
+  "version": "0.0.1",
+  "authors": ["Versecafe <ve.re.ca@protonmail.com>"],
+  "description": "Groovy language support for Zed",
+  "repository": "https://github.com/versecafe/zed-groovy",
+  "languages": {
+    "Groovy": "languages/groovy"
+  },
+  "grammars": {
+    "groovy": "grammars/groovy.wasm"
+  }
+}
